@@ -1,5 +1,7 @@
 # 🎁 Amigo Secreto
 
+![Amigo Secreto](assets/amigo-secreto.png)
+
 Este é um projeto simples em **JavaScript**, **HTML** e **CSS** que simula um sorteio de **Amigo Secreto**.  
 O usuário pode adicionar nomes a uma lista e, em seguida, sortear aleatoriamente um dos amigos.
 
